@@ -1,0 +1,10 @@
+.notes-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height: 636px;
+    width: 430px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+}

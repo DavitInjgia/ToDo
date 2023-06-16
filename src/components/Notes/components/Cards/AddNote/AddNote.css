@@ -1,0 +1,42 @@
+.add-note-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  margin-block: 1rem;
+}
+.submit-button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  gap: 11px;
+  width: 88px;
+  height: 49px;
+  background-color: #20eeb0;
+  border-radius: 5px;
+}
+.input-note {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #888888;
+  border: none;
+  background: transparent;
+  outline: none;
+}
+.icon-input {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+  align-items: center;
+  border-radius: 5px;
+  background: #EBEFF2;
+  width: 275px;
+  height: 49px;
+  padding: 5px;
+}

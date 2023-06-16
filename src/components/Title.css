@@ -1,0 +1,17 @@
+.title-block{
+    width: 50%;
+    height: 636px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.title{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 116px;
+    color: #007FDB;
+}
